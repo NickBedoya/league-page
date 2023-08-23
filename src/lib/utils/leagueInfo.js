@@ -34,7 +34,6 @@ export const managers = [
     {
       "managerID" : "857680605880664064", // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Andrew",
-      "tookOver": 2023, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Indiana", // (optional)
       "bio": "Lorem ipsum...",
       "photo": "/managers/3A0C8921-3DA6-4911-AD95-72C18A63BF1D.png", // square ratio recommended (no larger than 500x500)
@@ -52,7 +51,6 @@ export const managers = [
     {
      "managerID": "2857715420902420480",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Sam",
-      "tookOver": 2023, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Kennedy HS", // (optional)
       "bio": "Lorem ipsum...",
       "photo": "/managers/3A0C8921-3DA6-4911-AD95-72C18A63BF1D.png", // square ratio recommended (no larger than 500x500)
@@ -87,7 +85,6 @@ export const managers = [
     {
       "managerID" : "876896173116526592"  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Yam",
-      "tookOver": 2023, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Retirement Home", // (optional)
       "bio": "Lorem ipsum...",
       "photo": "/managers/3A0C8921-3DA6-4911-AD95-72C18A63BF1D.png", // square ratio recommended (no larger than 500x500)
@@ -105,7 +102,6 @@ export const managers = [
     {
       "managerID" : "892875255390085120"  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Jacob",
-      "tookOver": 2023, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Amherst", // (optional)
       "bio": "Lorem ipsum...",
       "photo": "/managers/3A0C8921-3DA6-4911-AD95-72C18A63BF1D.png", // square ratio recommended (no larger than 500x500)
@@ -123,7 +119,6 @@ export const managers = [
     {
       "managerID" : "900538909841526784"  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Matt",
-      "tookOver": 2023, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Egypt", // (optional)
       "bio": "Lorem ipsum...",
       "photo": "/managers/3A0C8921-3DA6-4911-AD95-72C18A63BF1D.png", // square ratio recommended (no larger than 500x500)
@@ -141,7 +136,6 @@ export const managers = [
     {
       "managerID" : "900540144678027264"  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Tocci",
-      "tookOver": 2023, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Tight End U", // (optional)
       "bio": "Lorem ipsum...",
       "photo": "/managers/3A0C8921-3DA6-4911-AD95-72C18A63BF1D.png", // square ratio recommended (no larger than 500x500)
@@ -159,7 +153,6 @@ export const managers = [
     {
       "managerID" : "900541044389744640"  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Blake",
-      "tookOver": 2023, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "New Orleans", // (optional)
       "bio": "Lorem ipsum...",
       "photo": "/managers/3A0C8921-3DA6-4911-AD95-72C18A63BF1D.png", // square ratio recommended (no larger than 500x500)
@@ -177,7 +170,6 @@ export const managers = [
     {
       "managerID" : "994317228864548864"  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Kev and Zaretz",
-      "tookOver": 2023, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Long Island", // (optional)
       "bio": "Lorem ipsum...",
       "photo": "/managers/3A0C8921-3DA6-4911-AD95-72C18A63BF1D.png", // square ratio recommended (no larger than 500x500)
@@ -195,7 +187,6 @@ export const managers = [
     {
       "managerID" : "901981688996167680"  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Jett",
-      "tookOver": 2023, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Ann Arbor", // (optional)
       "bio": "Lorem ipsum...",
       "photo": "/managers/3A0C8921-3DA6-4911-AD95-72C18A63BF1D.png", // square ratio recommended (no larger than 500x500)
@@ -213,7 +204,6 @@ export const managers = [
     {
       "managerID" : "902041498877698048"  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Bob and Vayda",
-      "tookOver": 2023, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Egypt", // (optional)
       "bio": "Lorem ipsum...",
       "photo": "/managers/3A0C8921-3DA6-4911-AD95-72C18A63BF1D.png", // square ratio recommended (no larger than 500x500)
@@ -231,7 +221,6 @@ export const managers = [
     {
       "managerID" : "900540198528647168"  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Skully",
-      "tookOver": 2023, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Madison", // (optional)
       "bio": "Lorem ipsum...",
       "photo": "/managers/3A0C8921-3DA6-4911-AD95-72C18A63BF1D.png", // square ratio recommended (no larger than 500x500)
