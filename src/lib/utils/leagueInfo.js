@@ -77,7 +77,6 @@ export const managers = [
     },
     {
       "managerID" : "474325011151187968"
-      "roster": 3,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Nick",
       "location": "South Africa", // (optional)
       "bio": "Lorem ipsum...",
